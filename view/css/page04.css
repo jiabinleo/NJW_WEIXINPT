@@ -1,0 +1,28 @@
+body {
+  position: relative;
+  background-color: #eeeeee;
+}
+section {
+  position: relative;
+}
+section img {
+  width: 100%;
+}
+a .page01 {
+  padding: 0.64rem;
+  position: absolute;
+  right: 1.49333333rem;
+  top: 7.68rem;
+}
+a .page04 {
+  padding: 0.64rem 5.54666667rem;
+  position: absolute;
+  left: 2.56rem;
+  top: 13.01333333rem;
+}
+a .page05 {
+  padding: 0.64rem 5.54666667rem;
+  position: absolute;
+  left: 2.56rem;
+  top: 15.40266667rem;
+}

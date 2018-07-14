@@ -1,0 +1,89 @@
+body {
+  background-color: #eeeeee;
+  position: relative;
+}
+header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  height: 1.87733333rem;
+  line-height: 1.70666667rem;
+  width: 100%;
+}
+header img {
+  width: 100%;
+}
+header a .header-left {
+  position: absolute;
+  top: 0.04266667rem;
+  left: 0.21333333rem;
+  padding: 0.85333333rem;
+}
+section img {
+  width: 100%;
+}
+section a span {
+  position: absolute;
+  padding: 0.704rem 6.72rem;
+  left: 1.28rem;
+}
+section a span.page2 {
+  top: 23.46666667rem;
+  left: 12.37333333rem;
+  padding: 1.06666667rem 1.28rem;
+}
+section a span.page3 {
+  top: 35.2rem;
+  left: 12.37333333rem;
+  padding: 1.06666667rem 1.28rem;
+}
+section a span.page11 {
+  top: 2.77333333rem;
+  left: 1.49333333rem;
+  padding: 1.06666667rem 1.28rem;
+}
+section a span.page12 {
+  top: 2.77333333rem;
+  left: 4.69333333rem;
+  padding: 1.06666667rem 1.49333333rem;
+}
+section a span.page13 {
+  top: 2.77333333rem;
+  left: 8.10666667rem;
+  padding: 1.06666667rem 1.38666667rem;
+}
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 999;
+  height: 2.13333333rem;
+  text-align: center;
+  line-height: 1.70666667rem;
+  width: 100%;
+  background: #ffffff;
+}
+footer img {
+  width: 100%;
+}
+footer a span {
+  position: absolute;
+  padding: 0.96rem 1.28rem;
+}
+footer a span.footer01 {
+  top: 0.04266667rem;
+  left: 0.85333333rem;
+}
+footer a span.footer02 {
+  top: 0.04266667rem;
+  left: 4.69333333rem;
+}
+footer a span.footer03 {
+  top: 0.04266667rem;
+  left: 8.74666667rem;
+}
+footer a span.footer04 {
+  top: 0.04266667rem;
+  left: 12.8rem;
+}

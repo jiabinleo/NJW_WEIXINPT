@@ -1,0 +1,116 @@
+body {
+  position: relative;
+  background-color: #eeeeee;
+}
+header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  height: 1.87733333rem;
+  line-height: 1.70666667rem;
+  width: 100%;
+}
+header img {
+  width: 100%;
+}
+header a {
+  overflow: hidden;
+}
+header a .header-left {
+  position: absolute;
+  top: 0.04266667rem;
+  left: 0.21333333rem;
+  padding: 0.85333333rem;
+}
+section {
+  padding-bottom: 0.21333333rem;
+}
+section img {
+  width: 100%;
+}
+section a span {
+  position: absolute;
+  padding: 3.11466667rem 7.21066667rem;
+  left: 0.74666667rem;
+  top: 0.64rem;
+}
+section a span.page2 {
+  padding: 1.49333333rem 1.70666667rem;
+  left: 0.74666667rem;
+  top: 7.552rem;
+}
+section a span.page3 {
+  padding: 1.49333333rem 1.70666667rem;
+  left: 4.48rem;
+  top: 7.552rem;
+}
+section a span.page4 {
+  padding: 1.49333333rem 1.70666667rem;
+  left: 8.10666667rem;
+  top: 7.552rem;
+}
+section a span.page5 {
+  padding: 1.49333333rem 1.70666667rem;
+  left: 11.73333333rem;
+  top: 7.552rem;
+}
+section a span.page6 {
+  padding: 0.64rem 1.28rem;
+  left: 12.48rem;
+  top: 14.16533333rem;
+}
+section a span.page7 {
+  padding: 5.12rem 6.656rem;
+  left: 1.32266667rem;
+  top: 15.78666667rem;
+}
+section a span.page8 {
+  padding: 0.64rem 1.28rem;
+  left: 12.48rem;
+  top: 27.30666667rem;
+}
+section a span.page9 {
+  padding: 4.48rem 6.656rem;
+  left: 1.32266667rem;
+  top: 29.01333333rem;
+}
+section a span.page10 {
+  padding: 0.85333333rem 7.04rem;
+  left: 0.85333333rem;
+  top: 11.30666667rem;
+}
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 999;
+  height: 2.09066667rem;
+  text-align: center;
+  line-height: 1.70666667rem;
+  width: 100%;
+  background: #ffffff;
+}
+footer img {
+  width: 100%;
+}
+footer a span {
+  position: absolute;
+  padding: 0.96rem 1.28rem;
+}
+footer a span.footer01 {
+  top: 0.04266667rem;
+  left: 0.85333333rem;
+}
+footer a span.footer02 {
+  top: 0.04266667rem;
+  left: 4.69333333rem;
+}
+footer a span.footer03 {
+  top: 0.04266667rem;
+  left: 8.74666667rem;
+}
+footer a span.footer04 {
+  top: 0.04266667rem;
+  left: 12.8rem;
+}
